@@ -1,0 +1,30 @@
+
+*{
+    color: rgb(255, 255, 255);
+    background-color: black;   
+}
+
+.h1 {
+    text-align: center;
+    font-size: 50px;
+    color: gold;
+}
+
+.body-txt {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.link-txt {
+    padding-left: 46%;
+    font-family: 'Courier New', Courier, monospace;
+}.unordered-list-1 {
+    padding-left: auto;
+    padding: auto;
+    font-family: 'Courier New', Courier, monospace;
+}
+.ordered-list-1 {
+    padding-left: auto;
+    padding: auto;
+    font-family: 'Courier New', Courier, monospace;
+}
